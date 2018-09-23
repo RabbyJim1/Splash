@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#23A7D8</color>
+    <color name="colorPrimaryDark">#23A7D8</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="gradientStrat">#19AABB</color>
+    <color name="gradientEnd">#23A7D4</color>
+    <color name="buttonPressed">#0a4148</color>
+
+
+
+    <color name="grey_300">#e0e0e0</color>
+
+
+
+
+</resources>
